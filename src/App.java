@@ -42,3 +42,5 @@ public class App {
 
     }
 }
+
+//esta es una forma de ingresar datos, en el proximo codigo ingresaremos los datos mediante constructores

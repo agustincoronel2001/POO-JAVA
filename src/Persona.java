@@ -4,6 +4,17 @@ public class Persona {
         String apellido;
         int edad;
         Carrera carrera;
+
+        // Constructor
+
+        public Persona(){
+                carrera = new Carrera(); //necesario
+        }
+
+
+
+
+
         //Métodos (comportamiento de un objeto)
 
         public String darNombreCompleto(){
